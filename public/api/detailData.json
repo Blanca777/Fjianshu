@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "writer": {
+    "name": "blanca",
+    "assets": 777
+  },
+  "writerArticle": [{
+    "id": 1,
+    "title": "执着的面具1",
+    "read": 100
+  },{
+    "id": 2,
+    "title": "执着的面具2",
+    "read": 200
+  }],
+  "recommendArticle": [{
+    "id": 1,
+    "title": "执着的面具1",
+    "read": 100
+  },{
+    "id": 2,
+    "title": "执着的面具2",
+    "read": 200
+  },{
+    "id": 3,
+    "title": "执着的面具3",
+    "read": 300
+  }],
+  "article": {
+    "title": "执着的面具",
+    "content": "张开眼睛，全是黑，那睁不挣眼还有区别吗"
+  }
+  
+}
